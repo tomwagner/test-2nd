@@ -1,0 +1,22 @@
+dist
+.env
+
+# OSX
+.DS_Store
+
+# node.js
+node_modules/
+npm-debug.log
+webpack-assets.json
+.nyc_output
+stats.json
+coverage
+
+# Cypress
+cypress/screenshots
+cypress/fixtures
+cypress/videos
+
+# IDE
+.idea
+*.sublime-workspace
